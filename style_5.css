@@ -1,0 +1,45 @@
+.tete{
+background-color:rgb(120,120,120);
+height:45px;
+	}
+.table{
+background-color:rgb(255,240,245);
+height:450px;
+	}
+.entete{
+color:white;
+margin:auto;
+margin-top:10px;
+margin-left:150px;
+	}
+.white{
+height:40px;
+background-color:rgb(243,236,199);
+}
+.formulaire{
+height:400px;
+background-color:rgb(255,240,245);
+}
+.bouton{
+height:30px;
+background-color:rgb(218,218,218);
+}
+.vide{
+height:20px;
+background-color:rgb(255,240,245);
+}
+.pied{
+height:37px;
+background-color:rgb(21,21,21);
+}
+.foot{
+color:white;
+font-size:10px;
+margin:auto;
+margin-top:10px;
+margin-left:150px;
+	}
+
+		
+
+						
