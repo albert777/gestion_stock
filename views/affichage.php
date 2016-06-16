@@ -1,23 +1,7 @@
-<!DOCTYPE Html>
-<html>
-   <head>
-      <meta charset="utf-8"/>
-      <link rel="stylesheet" href="style_5.css"/>
-      <link href="bootstrap.min.css" rel="stylesheet"/>
-      <link href="//netdna.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-glyphicons.css" rel="stylesheet">
-      <title>Gestion stock2</title>
-   </head>
-      <body>
-         <div class="container-fluid">
-            <div class="row">
-               <div class="col-lg-12 tete">
-                  <p class="entete">GESTION DES STOCKS</p>
-               </div>
-            </div>
-            <div class="row">
-               <div class="col-lg-12 white">
-               </div>
-            </div>
+<?php
+	include ("header.php");
+	include ("front_header.php");
+?>
             <div class="row">
                <div class="col-lg-12 table">
                      <div class="row">
@@ -199,16 +183,7 @@
                      
                </div>
             </div>
-            <div class="row">
-               <div class="col-lg-12 vide">
-                  
-               </div>
-            </div>
-            <div class="row">
-               <div class="col-lg-12 footer navbar-fixed-bottom pied">
-                   <p class="foot">&#169 2016 Ndayisenga Régis</p>
-               </div>
-            </div>
-        </div>
-     </body>
-</html>
+         <?php
+				include ("front_footer.php");
+				include ("footer.php");
+		 ?>
