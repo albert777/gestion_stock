@@ -1,14 +1,9 @@
+.principal{
 
 	}
-.main {
-	position: absolute;
-	top:0;
-	bottom: 0;
-	width:100%;
-}
 .tete{
 background-color:rgb(120,120,120);
-height:13%;
+height:70px;
 	}
 .entete{
 color:white;
@@ -23,26 +18,26 @@ margin-top:10px;
 margin-left:0px;
 	}
 .white{
-height:7%;
+height:40px;
 background-color:rgb(243,236,199);
 }
 .formulaire{
-height:54.7%;
+height:450px;
 background-color:rgb(243,243,243);
 }
 .vivi{
 height:40px;
 }
 .bouton{
-height:4%;
+height:30px;
 background-color:rgb(218,218,218);
 }
 .vide{
-height:17%;
+height:20px;
 background-color:rgb(243,243,243);
 }
 .pied{
-height:5%;
+height:37px;
 background-color:rgb(21,21,21);
 }
 .foot{
