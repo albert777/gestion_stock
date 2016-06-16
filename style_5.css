@@ -1,3 +1,6 @@
+html,body{
+height:100%;
+	}
 .tete{
 background-color:rgb(120,120,120);
 height:70px;
@@ -15,7 +18,16 @@ background-color:rgb(243,236,199);
 .table{
 height:430px;
 background-color:rgb(243,243,243);
+position:absolute;
+z-index:2;
+overflow:scroll;
 }
+.table-fixed thead {
+  width: 97%;
+}
+.table-fixed tbody {
+  height: 230px;
+} 
 
 .bouton{
 height:30px;
@@ -28,6 +40,9 @@ background-color:rgb(243,243,243);
 .pied{
 height:37px;
 background-color:rgb(21,21,21);
+position:absolute;
+bottom:0px;
+
 }
 .foot{
 color:white;
