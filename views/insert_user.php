@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 	include ("header.php");
 	include ("front_header.php");
 ?>      
@@ -57,10 +57,7 @@
                            <input type="fonction" class="form-control" id="fonction">
                        </div>
                    </div>
-                   </form>
-               </div>
-            </div>
-            <div class="row">
+		<div class="row">
                <div class="col-lg-12 bouton">
                      <div class="row">
                           <div class="col-lg-offset-4 col-lg-3">
@@ -68,7 +65,11 @@
                                  <button type="button" class="btn btn-secondary btn-sm">Cancel</button>
                           </div>
                      </div>
+             	</div>
+                   </form>
                </div>
+            </div>
+            
             </div>
             <?php
 				include ("front_footer.php");
